@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\640f2106c001b9937e0f63201bfdce8670e4389e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\640f2106c001b9937e0f63201bfdce8670e4389e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\640f2106c001b9937e0f63201bfdce8670e4389e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\640f2106c001b9937e0f63201bfdce8670e4389e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

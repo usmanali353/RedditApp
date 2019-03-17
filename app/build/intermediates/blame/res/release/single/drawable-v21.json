@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\2bb0de6dc7304938739f88357829198f4b877c66\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\2bb0de6dc7304938739f88357829198f4b877c66\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\2bb0de6dc7304938739f88357829198f4b877c66\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\640f2106c001b9937e0f63201bfdce8670e4389e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

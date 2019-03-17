@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickContent</string>
+    <string name="action_settings">Settings</string>
+    <string name="SessionUsername">SessionUsername</string>
+
+    <string name="SessionModhash">SessionModhash</string>
+
+    <string name="SessionCookie">SessionCookie</string>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_upward_blue_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_upward_blue_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_upward_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_upward_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_comment_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_comment_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_send_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\HelloWorldSolution\\.android\\build-cache\\00e95c94a1cc97ae1567bee85b836ef8fcf6d0b9\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_share_black_24dp.xml",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_black_24dp.xml"
+    }
+]

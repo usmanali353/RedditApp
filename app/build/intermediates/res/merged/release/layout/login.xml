@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+    android:fitsSystemWindows="true"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:paddingRight="24dp"
+    android:paddingLeft="24dp"
+    android:paddingTop="56dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_height="72dp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="24dp"
+        android:src="@drawable/app_icon"/>
+
+    <!-- Email Label -->
+
+
+
+    <android.support.design.widget.TextInputLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp">
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint=" Username"
+       android:drawableStart="@drawable/ic_person_black_24dp"
+        android:inputType="textEmailAddress"
+        android:id="@+id/input_email"/>
+
+</android.support.design.widget.TextInputLayout>
+
+    <!-- Password Label -->
+
+
+
+    -<android.support.design.widget.TextInputLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp">
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint=" Password"
+        android:drawableStart="@drawable/ic_lock_black_24dp"
+        android:inputType="textPassword"
+        android:id="@+id/input_password"/>
+
+</android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="24dp"
+        android:id="@+id/btn_login"
+        android:textColor="#fff"
+        android:text="Login" android:padding="12dp"/>
+</LinearLayout>
+
+</ScrollView>

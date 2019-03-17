@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_email_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_lock_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_comment_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_share_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_arrow_upward_blue_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_arrow_upward_blue_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_send_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_person_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_search_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_background.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects\\RedditApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_arrow_upward_black_24dp.png",
+        "source": "E:\\Projects\\RedditApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_arrow_upward_black_24dp.png"
+    }
+]
